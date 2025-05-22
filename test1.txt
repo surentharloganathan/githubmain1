@@ -1,1 +1,10 @@
-
+<!Doctype>
+<html>
+<head>
+tittle
+</head>
+<body>
+<h1>
+hi
+</h1>
+</html>
